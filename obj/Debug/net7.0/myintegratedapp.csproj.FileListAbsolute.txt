@@ -1,0 +1,15 @@
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\bin\Debug\net7.0\myintegratedapp.exe
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\bin\Debug\net7.0\myintegratedapp.deps.json
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\bin\Debug\net7.0\myintegratedapp.runtimeconfig.json
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\bin\Debug\net7.0\myintegratedapp.dll
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\bin\Debug\net7.0\myintegratedapp.pdb
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\myintegratedapp.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\myintegratedapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\myintegratedapp.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\myintegratedapp.AssemblyInfo.cs
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\myintegratedapp.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\myintegratedapp.dll
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\refint\myintegratedapp.dll
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\myintegratedapp.pdb
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\myintegratedapp.genruntimeconfig.cache
+C:\Users\USER\Desktop\test-codes\_ia_and_test_prealpha_v2\myintegratedapp\obj\Debug\net7.0\ref\myintegratedapp.dll

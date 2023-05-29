@@ -1,0 +1,9 @@
+list: list lecturas de usuario
+a, b: entrada 1, entrada 2, entrada 3
+saludos: hola, holi, buenos, dias, tardes, noches, hey, hole, buen, dia, buenas, tardes, noches, que, tal, como, estas, hubo, pasa, te, va, saludos, bienvenido, ha, ido, todo, hay, nuevo, sientes, estuvo, tu, todo, cuentas
+despedidas: adios, bye, cuidate, nos, vemos, chao, adios, hasta, luego, la, vista, nos, vemos, chao, pronto, bye, cuidate, manana, proxima, saludos, que, tengas, un, buen, dia, noche
+pregunta1: como, te, sientes, estas, amaneciste, que, tal, como, estas, te, va, sientes, hay, de, nuevo, va, todo, ha, estado, tu, dia, estuvo, encuentras, marcha, andas, has, estado, cuentas, te, ido, hoy
+pregunta2: como, te, llamas, es, tu, nombre, quien, eres, cual, como, te, llamas, quien, eres, tu, cual, es, tu, nombre, se, llama, usted, dicen, conocieron, de, que, eres, donde, pais, ciudad, apellidas
+respuesta1: me, siento, feliz, alegre, motivado, motivada 
+respuesta2: que, bueno, me alegra muchisimo, mucho, que, estes, feliz,
+respuesta3: yo, soy
